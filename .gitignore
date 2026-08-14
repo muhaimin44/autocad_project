@@ -1,4 +1,6 @@
-
+*.dwl
+*.dwl2
+*.bak
 *-bak
 *_bak
 *.kicad_pcb-bak
